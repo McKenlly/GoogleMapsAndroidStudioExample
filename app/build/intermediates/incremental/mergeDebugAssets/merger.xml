@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\bokoch\Documents\Maps\app\src\main\assets"><file name="markers_places_map.db" path="C:\Users\bokoch\Documents\Maps\app\src\main\assets\markers_places_map.db"/><file name="markrs.db" path="C:\Users\bokoch\Documents\Maps\app\src\main\assets\markrs.db"/></source><source path="C:\Users\bokoch\Documents\Maps\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\bokoch\Documents\Maps\app\src\debug\assets"/></dataSet></merger>
